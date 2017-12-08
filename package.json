@@ -1,0 +1,23 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "to-do list API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeyJordan/node-API.git"
+  },
+  "author": "Jordan Dey, Diana Baltrusaitis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeyJordan/node-API/issues"
+  },
+  "homepage": "https://github.com/DeyJordan/node-API#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-session": "^1.15.6"
+  }
+}
